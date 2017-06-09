@@ -85,7 +85,7 @@ All the variables need to better understand the code are in the CodeBook.md
 	Output	
 	
 After running the code you should expect to see, in the working directory, 2 files:
-	- dt_tidy_avg.txt
-	- dt_tidy_avg.csv 
+	- dt_tidy_avg.txt  
+	- dt_tidy_avg.csv   
 		
 
