@@ -35,8 +35,8 @@ For each record in the dataset it is provided:
 
 The source of the original dataset is   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 The files in this repository contain the information needed in order to create a tidy data set, meant to manage attributes in the area of wearable computing:
-	- 'Readme.txt' - current file
-    - 'CodeBook.txt' - description of variables
+    - 'Readme.md' - current file
+    - 'CodeBook.md' - description of variables
     - 'run_analysis.R' - the R code for getting and cleaning the dataset
 	
 
