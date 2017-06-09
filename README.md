@@ -35,7 +35,7 @@ For each record in the dataset it is provided:
 
 The source of the original dataset is   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 The files in this repository contain the information needed in order to create a tidy data set, meant to manage attributes in the area of wearable computing:
-    - 'Readme.md' - current file
+    - 'Readme.md' - current file 
     - 'CodeBook.md' - description of variables
     - 'run_analysis.R' - the R code for getting and cleaning the dataset
 	
@@ -49,7 +49,7 @@ The files in this repository contain the information needed in order to create a
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-	Prerequisites
+    Prerequisites
 	
 The run_analysis.R file should be placed in the UCI HAR Dataset folder (which you will get after unzipping the original data downloaded from link above). 
 To run the code without errors, the following files/folders must remain at all times in the folder:
