@@ -67,7 +67,7 @@ To run the code without errors, the following files/folders must remain at all t
 	- 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
 
 The libraries needed to run the code should be installed and loaded in the R environment.
-Before running the code you should change directory to the UCI HAR Dataset folder
+Before running the code you should change directory to the UCI HAR Dataset folder.
 
 
 	Reading the code
@@ -76,7 +76,7 @@ Before running the code you should change directory to the UCI HAR Dataset folde
 2. Read and filter the data from features.txt to select only those which are means or standard deviations. Set the features as column names for the data.
 3. Read the data from activity_label.txt and replace the activity ids from data with the activity label associated.
 4. Save all the tidy data with clear column names.
-5. Create a new data set by aggregating thr mean for each activity and subject
+5. Create a new data set by aggregating the mean for each activity and subject.
 		
 		
 	Output	
