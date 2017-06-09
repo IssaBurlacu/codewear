@@ -34,7 +34,7 @@ For each record in the dataset it is provided:
 	Files
 
 The source of the original dataset is   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-The files in this repository contain the information needed in order to create a tidy data set, meant to manage attributes in the area of wearable computing:
+The files in this repository contain the information needed in order to create a tidy data set, meant to manage attributes in the area of wearable computing:  
     - 'Readme.md' - current file   
     - 'CodeBook.md' - description of variables  
     - 'run_analysis.R' - the R code for getting and cleaning the dataset  
@@ -84,7 +84,7 @@ All the variables need to better understand the code are in the CodeBook.md
 		
 	Output	
 	
-After running the code you should expect to see, in the working directory, 2 files:
+After running the code you should expect to see, in the working directory, 2 files:  
 	- dt_tidy_avg.txt  
 	- dt_tidy_avg.csv   
 		
