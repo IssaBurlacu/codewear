@@ -79,7 +79,8 @@ Before running the code you should change directory to the UCI HAR Dataset folde
 3. Read the data from activity_label.txt and replace the activity ids from data with the activity label associated.
 4. Save all the tidy data with clear column names.
 5. Create a new data set by aggregating the mean for each activity and subject.
-		
+
+All the variables need to better understand the code are in the CodeBook.md		
 		
 	Output	
 	
